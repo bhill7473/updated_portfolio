@@ -19,8 +19,8 @@ const About = () => (
             <hr></hr>
             <img  id="mainI"alt = " imagS" src={image}/>
             <p className="le">
-            Developer, TA, and Tutor. Certificate from the Case Western Reserve full stack coding boot camp and currently pursuing a BS in Computer Science at Kent State University. I became interested in programming while trying to figure out on my own how the internet works,
-          and playing around with different technologies computers are capable of. Since then I got serious about learning how everything works inside, and out. I enjoy programming because you can turn your ideas into reality, and in a sense your a modern day artist. When I'm not coding I like to workout, go hiking, listen to music, play video games, watch movies.
+            Developer, TA, and Tutor. Certificate from the Case Western Reserve Full Stack Coding Boot Camp and currently pursuing a BS in Computer Science at Kent State University. I became interested in programming while trying to figure out on my own how the internet works,
+          and playing around with different technologies computers are capable of. Since then, I got serious about learning how everything works, inside and out. I enjoy the creative aspect of programming as well as its practical applications. When I'm not coding, I like to workout, go hiking, listen to music, play video games, and watch movies.
             </p>
             
 
