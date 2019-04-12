@@ -1,0 +1,69 @@
+#maincontain{
+    padding:10px;
+    margin-top:10%;
+    border:5px solid white;
+    color:#55efc4;
+
+    
+}
+#mainI{
+width:225px;
+height:200px;
+float:right;
+}
+.g{
+    background-color:#1b5381;
+}
+
+.b li{
+    color:black;
+    font-weight: bold;
+    list-style-type: none;
+}
+.c{
+    background-color:rgb(187, 236, 186);
+    margin-bottom:10px;
+    padding:15px;
+    border-radius: 25px;
+}
+.wb{
+    background-color:rgb(12, 199, 27);
+}
+.jumbo{
+    background-color: rgb(187, 236, 186);
+    border:1px solid white;
+    padding:10px;
+}
+#btn{
+    border:1px solid white;
+}
+
+.lead{
+    font-weight:bold;
+}
+
+.height{
+    /* height:750px; */
+    padding:10px;
+    background-color:rgb(187, 236, 186);
+}
+
+.he{
+    margin-right:100px;
+}
+
+.contact-form{
+    width:500px;
+}
+.frow{
+    background-color:rgb(12, 199, 27);
+    padding:2%;
+    margin:2%;
+    border-radius: 25px;
+
+}
+
+
+.btn2{
+    background-color: rgb(187, 236, 186);
+}

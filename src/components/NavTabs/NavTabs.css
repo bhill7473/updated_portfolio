@@ -1,0 +1,20 @@
+.uls{
+    /* background-image: url("green.jpg"); */
+    background-color: rgb(187, 236, 186);
+    padding:2px;
+    
+   
+}
+
+.active{
+    background-color: rgb(187, 236, 186); 
+}
+
+.nav-item{
+    background-color:black;
+    margin: 1%;
+    cursor:pointer;
+    border: 1px solid rgb(12, 199, 27);
+    color:rgb(12, 199, 27);
+    
+}

@@ -1,0 +1,33 @@
+#project-row{
+  
+    margin-top:20px;
+    margin-left:5%;
+    margin-right:5%;
+    height:300px;
+}
+
+#project-secondrow{
+   
+    margin-top:5%;
+    margin-left:5%;
+    margin-right:5%;
+    padding:2px;
+    height:300px;
+}
+.w{
+    border:2px solid white;
+    background-color:rgb(192, 184, 184);
+    margin-right:2px;
+    padding:10px;
+    border-radius: 25px;
+}
+.wb{
+    border:2px solid white; 
+}
+img{
+    width:50%;
+    height:30%
+}
+.footer{
+    background-color: white;
+}
